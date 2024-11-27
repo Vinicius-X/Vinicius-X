@@ -14,6 +14,7 @@ Sou estudante de Informática para Internet, aprimorando minhas habilidades em d
 📫 ## Contato ##
 
 Email:vinicius.sousa.morais28042006 @ gmail.com
+
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: ...
