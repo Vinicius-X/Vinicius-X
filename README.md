@@ -1,4 +1,4 @@
-Olá, eu sou o Vinicius Sousa 👋
+## Olá, eu sou o Vinicius Sousa 👋
 Sou estudante de Informática para Internet, aprimorando minhas habilidades em desenvolvimento web, programação (Python e PHP), design de interfaces e gerenciamento de conteúdo, com experiência em CMS como o WordPress.
 
 🔭 I’m currently working on ...
