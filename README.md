@@ -1,4 +1,4 @@
-Olá, eu sou a Tatiane Muniz 👋
+Olá, eu sou o Vinicius Sousa 👋
 Sou estudante de Informática para Internet, aprimorando minhas habilidades em desenvolvimento web, programação (Python e PHP), design de interfaces e gerenciamento de conteúdo, com experiência em CMS como o WordPress.
 
 🔭 I’m currently working on ...
@@ -13,7 +13,7 @@ Sou estudante de Informática para Internet, aprimorando minhas habilidades em d
 
 📫 ## Contato ##
 
-Email:tatianemuniz0812 @ gmail.com
-😄 Pronouns: ...
+Email:vinicius.sousa.morais28042006 @ gmail.com
+😄 Pronouns: He/Him
 
 ⚡ Fun fact: ...
